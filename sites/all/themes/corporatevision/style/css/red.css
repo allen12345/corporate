@@ -1,0 +1,27 @@
+.homebody {
+	background: #ffffff url('../../style/images/red-bg.png') top center repeat-x;
+}
+
+body {
+	background: #ffffff url('../../style/images/red-bg-all.png') top center repeat-x;
+}
+
+.hp-menu li.toplevel {
+	padding: 2px;
+	background: #d40909;
+	border: 1px solid #c50808;
+	margin: 0 5px 0 5px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.hp-menu li li {
+	background:	#d40909;
+	border-top: 1px solid #c50808;
+	border-right: 1px solid #c50808;
+	border-left: 1px solid #c50808;
+}
+.hp-menu li li li {
+	background:	#d40909;
+}

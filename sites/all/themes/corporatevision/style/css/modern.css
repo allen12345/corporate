@@ -1,0 +1,27 @@
+.homebody {
+	background: #ffffff url('../../style/images/modern-bg.png') top center no-repeat;
+}
+
+body {
+	background: #ffffff url('../../style/images/modern-bg-all.png') top center no-repeat;
+}
+
+.hp-menu li.toplevel {
+	padding: 2px;
+	background: #6799d4;
+	border: 1px solid #4f82bf;
+	margin: 0 5px 0 5px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.hp-menu li li {
+	background:	#6799d4;
+	border-top: 1px solid #4f82bf;
+	border-right: 1px solid #4f82bf;
+	border-left: 1px solid #4f82bf;
+}
+.hp-menu li li li {
+	background:	#6799d4;
+}
