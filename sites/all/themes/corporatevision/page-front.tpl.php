@@ -97,7 +97,7 @@
     <div class="clear"></div>
     
     <a href="<?php print check_url($front_page); ?>"><img class="footer-logo" src="<?php print $GLOBALS['base_url'].'/'.drupal_get_path('theme', 'corporatevision') ?>/logo-tiny.png" alt="<?php print $site_title; ?>" /></a>
-    <p class="copyright"><?php print $footer_message; ?> | <a href="http://www.themesnap.com">Designed by ThemeSnap.com</a></p>
+    <p class="copyright"><?php print $footer_message; ?></p>
     
     </div>
 </div>
